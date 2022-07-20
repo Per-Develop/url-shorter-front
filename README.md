@@ -7,12 +7,22 @@ This is FrontEnd for url shorter service, which is based on [next.js](https://ne
 - [next.js](https://nextjs.org/)
 - [react-router-dom](https://reactrouter.com/web/api/Link)
 - [git-flow](https://git-scm.com/book/en/v2/Git-Basics-Branching-and-Merging)
-- [eslint](https://eslint.org/)
 
 ## Usage
 
-```bash
- npm install
+for install dependencies and run, run following command:
 
- npm run dev
+(recommended)
+
+```bash
+  yarn
+
+  yarn start
 ```
+
+or
+  
+  ```bash
+    npm install
+    npm run start
+  ```
