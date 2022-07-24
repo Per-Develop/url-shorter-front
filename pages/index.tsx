@@ -3,12 +3,15 @@ import Layout from '../components/Layout'
 
 const IndexPage = () => (
   <Layout title="Home | Url Shorter WebApp">
-    <h1>Hello Url Shorter WebApp 👋</h1>
-    <p>
-      <Link href="/about">
-        <a>About</a>
-      </Link>
-    </p>
+    <div className="flex h-96 justify-center items-center">
+      <div className="max-w-xs rounded overflow-hidden shadow-lg my-2">
+        <h1>Hello Dear </h1>
+        <p>
+          This is Url Shorter WebApp.
+        </p>
+      </div>
+    </div>
+
   </Layout>
 )
 
