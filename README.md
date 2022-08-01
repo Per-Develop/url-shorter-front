@@ -1,4 +1,4 @@
-# Url Shorter
+# Url Shorter WebApp
 
 This is FrontEnd for url shorter service, which is based on [next.js](https://nextjs.org/).
 
