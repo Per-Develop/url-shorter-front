@@ -1,8 +1,8 @@
 
 export type Url = {
-  id: number
-  title: string
+  id?: number
+  title?: string
   url: string
-  createdAt: string
-  updatedAt: string
+  createdAt?: string
+  updatedAt?: string
 }
